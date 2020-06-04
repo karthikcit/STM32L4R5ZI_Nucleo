@@ -26,5 +26,6 @@
 int main(void)
 {
 	printf("hello world\n");
+	printf("Committed in GITHUB\n");
 	for(;;);
 }
